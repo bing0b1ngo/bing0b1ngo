@@ -1,4 +1,4 @@
-<h1 align="center">👋Hi, I'm <BryceRB></h1>
+<h1 align="center">👋Hi, I'm BryceRB </h1>
 <p align="center">A student currently balancing sports, stem and academics.</p>
 
 ## 🏗️ What I'm Building
