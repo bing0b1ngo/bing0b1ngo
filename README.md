@@ -3,10 +3,9 @@
 
 ## 🏗️ What I'm Building
 
-<Aegis Blue, A prevention against mosquitoes>
+Aegis Blue, A prevention against mosquitoes
 <https://canva.link/ump99pcgpdn6evo>
 
 ## 🛠️ Tools I Use
-
-<Python>
+Python
 
